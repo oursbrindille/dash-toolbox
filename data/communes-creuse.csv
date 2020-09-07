@@ -1,0 +1,257 @@
+typecom,com,reg,dep,arr,tncc,ncc,nccenr,libelle,can,comparent,random
+COM,23001,75,23,232,1,AHUN,Ahun,Ahun,2301,,3
+COM,23002,75,23,232,1,AJAIN,Ajain,Ajain,2314,,2
+COM,23003,75,23,231,1,ALLEYRAT,Alleyrat,Alleyrat,2302,,2
+COM,23004,75,23,232,1,ANZEME,Anzême,Anzême,2314,,3
+COM,23005,75,23,231,1,ARFEUILLE CHATAIN,Arfeuille-Châtain,Arfeuille-Châtain,2308,,1
+COM,23006,75,23,232,1,ARRENES,Arrènes,Arrènes,2311,,3
+COM,23007,75,23,232,1,ARS,Ars,Ars,2301,,1
+COM,23008,75,23,231,1,AUBUSSON,Aubusson,Aubusson,2302,,1
+COM,23009,75,23,231,1,AUGE,Auge,Auge,2308,,1
+COM,23010,75,23,232,1,AUGERES,Augères,Augères,2311,,3
+COM,23011,75,23,232,1,AULON,Aulon,Aulon,2311,,3
+COM,23012,75,23,232,1,AURIAT,Auriat,Auriat,2305,,1
+COM,23013,75,23,231,1,AUZANCES,Auzances,Auzances,2303,,3
+COM,23014,75,23,232,1,AZAT CHATENET,Azat-Châtenet,Azat-Châtenet,2311,,3
+COM,23015,75,23,232,1,AZERABLES,Azerables,Azerables,2307,,3
+COM,23016,75,23,232,0,BANIZE,Banize,Banize,2301,,1
+COM,23017,75,23,231,0,BASVILLE,Basville,Basville,2303,,2
+COM,23018,75,23,232,0,BAZELAT,Bazelat,Bazelat,2307,,2
+COM,23019,75,23,231,0,BEISSAT,Beissat,Beissat,2303,,2
+COM,23020,75,23,231,0,BELLEGARDE EN MARCHE,Bellegarde-en-Marche,Bellegarde-en-Marche,2302,,2
+COM,23021,75,23,232,0,BENEVENT L ABBAYE,Bénévent-l'Abbaye,Bénévent-l'Abbaye,2311,,2
+COM,23022,75,23,231,0,BETETE,Bétête,Bétête,2306,,3
+COM,23023,75,23,231,0,BLAUDEIX,Blaudeix,Blaudeix,2310,,2
+COM,23024,75,23,231,0,BLESSAC,Blessac,Blessac,2302,,2
+COM,23025,75,23,232,0,BONNAT,Bonnat,Bonnat,2304,,1
+COM,23026,75,23,231,0,BORD SAINT GEORGES,Bord-Saint-Georges,Bord-Saint-Georges,2306,,2
+COM,23027,75,23,232,0,BOSMOREAU LES MINES,Bosmoreau-les-Mines,Bosmoreau-les-Mines,2305,,3
+COM,23028,75,23,231,0,BOSROGER,Bosroger,Bosroger,2302,,1
+COM,23029,75,23,232,2,BOURG D HEM,Bourg-d'Hem,Le Bourg-d'Hem,2304,,2
+COM,23030,75,23,232,0,BOURGANEUF,Bourganeuf,Bourganeuf,2305,,2
+COM,23031,75,23,231,0,BOUSSAC,Boussac,Boussac,2306,,3
+COM,23032,75,23,231,0,BOUSSAC BOURG,Boussac-Bourg,Boussac-Bourg,2306,,3
+COM,23033,75,23,232,3,BRIONNE,Brionne,La Brionne,2314,,2
+COM,23034,75,23,231,0,BROUSSE,Brousse,Brousse,2303,,3
+COM,23035,75,23,231,0,BUDELIERE,Budelière,Budelière,2308,,1
+COM,23036,75,23,232,0,BUSSIERE DUNOISE,Bussière-Dunoise,Bussière-Dunoise,2314,,2
+COM,23037,75,23,231,0,BUSSIERE NOUVELLE,Bussière-Nouvelle,Bussière-Nouvelle,2303,,1
+COM,23038,75,23,231,0,BUSSIERE SAINT GEORGES,Bussière-Saint-Georges,Bussière-Saint-Georges,2306,,2
+COM,23039,75,23,232,3,CELLE DUNOISE,Celle-Dunoise,La Celle-Dunoise,2307,,3
+COM,23040,75,23,231,3,CELLE SOUS GOUZON,Celle-sous-Gouzon,La Celle-sous-Gouzon,2310,,3
+COM,23041,75,23,232,3,CELLETTE,Cellette,La Cellette,2304,,1
+COM,23042,75,23,232,0,CEYROUX,Ceyroux,Ceyroux,2311,,3
+COM,23043,75,23,232,0,CHAMBERAUD,Chamberaud,Chamberaud,2301,,1
+COM,23044,75,23,232,0,CHAMBON SAINTE CROIX,Chambon-Sainte-Croix,Chambon-Sainte-Croix,2304,,2
+COM,23045,75,23,231,0,CHAMBON SUR VOUEIZE,Chambon-sur-Voueize,Chambon-sur-Voueize,2308,,2
+COM,23046,75,23,231,0,CHAMBONCHARD,Chambonchard,Chambonchard,2308,,1
+COM,23047,75,23,232,0,CHAMBORAND,Chamborand,Chamborand,2311,,1
+COM,23048,75,23,231,0,CHAMPAGNAT,Champagnat,Champagnat,2302,,3
+COM,23049,75,23,232,0,CHAMPSANGLARD,Champsanglard,Champsanglard,2304,,3
+COM,23050,75,23,232,3,CHAPELLE BALOUE,Chapelle-Baloue,La Chapelle-Baloue,2307,,1
+COM,23051,75,23,232,3,CHAPELLE SAINT MARTIAL,Chapelle-Saint-Martial,La Chapelle-Saint-Martial,2301,,3
+COM,23052,75,23,232,3,CHAPELLE TAILLEFERT,Chapelle-Taillefert,La Chapelle-Taillefert,2313,,1
+COM,23053,75,23,231,0,CHARD,Chard,Chard,2303,,1
+COM,23054,75,23,231,0,CHARRON,Charron,Charron,2303,,3
+COM,23055,75,23,231,0,CHATELARD,Châtelard,Châtelard,2303,,3
+COM,23056,75,23,232,0,CHATELUS LE MARCHEIX,Châtelus-le-Marcheix,Châtelus-le-Marcheix,2311,,3
+COM,23057,75,23,232,0,CHATELUS MALVALEIX,Châtelus-Malvaleix,Châtelus-Malvaleix,2304,,1
+COM,23058,75,23,231,2,CHAUCHET,Chauchet,Le Chauchet,2310,,3
+COM,23059,75,23,231,3,CHAUSSADE,Chaussade,La Chaussade,2302,,3
+COM,23060,75,23,232,0,CHAVANAT,Chavanat,Chavanat,2301,,2
+COM,23061,75,23,231,0,CHENERAILLES,Chénérailles,Chénérailles,2310,,1
+COM,23062,75,23,232,0,CHENIERS,Chéniers,Chéniers,2304,,3
+COM,23063,75,23,231,0,CLAIRAVAUX,Clairavaux,Clairavaux,2303,,1
+COM,23064,75,23,231,0,CLUGNAT,Clugnat,Clugnat,2306,,1
+COM,23065,75,23,232,0,COLONDANNES,Colondannes,Colondannes,2307,,3
+COM,23066,75,23,231,2,COMPAS,Compas,Le Compas,2303,,2
+COM,23067,75,23,231,3,COURTINE,Courtine,La Courtine,2303,,2
+COM,23068,75,23,231,0,CRESSAT,Cressat,Cressat,2310,,1
+COM,23069,75,23,231,0,CROCQ,Crocq,Crocq,2303,,3
+COM,23070,75,23,232,0,CROZANT,Crozant,Crozant,2307,,1
+COM,23071,75,23,231,0,CROZE,Croze,Croze,2309,,2
+COM,23072,75,23,231,0,DOMEYROT,Domeyrot,Domeyrot,2310,,3
+COM,23073,75,23,231,0,DONTREIX,Dontreix,Dontreix,2303,,3
+COM,23074,75,23,232,2,DONZEIL,Donzeil,Le Donzeil,2301,,2
+COM,23075,75,23,232,0,DUN LE PALESTEL,Dun-le-Palestel,Dun-le-Palestel,2307,,1
+COM,23076,75,23,231,1,EVAUX LES BAINS,Évaux-les-Bains,Évaux-les-Bains,2308,,3
+COM,23077,75,23,231,0,FAUX LA MONTAGNE,Faux-la-Montagne,Faux-la-Montagne,2309,,1
+COM,23078,75,23,232,0,FAUX MAZURAS,Faux-Mazuras,Faux-Mazuras,2305,,1
+COM,23079,75,23,231,0,FELLETIN,Felletin,Felletin,2309,,1
+COM,23080,75,23,231,0,FENIERS,Féniers,Féniers,2309,,3
+COM,23081,75,23,231,0,FLAYAT,Flayat,Flayat,2303,,2
+COM,23082,75,23,232,0,FLEURAT,Fleurat,Fleurat,2311,,1
+COM,23083,75,23,231,0,FONTANIERES,Fontanières,Fontanières,2308,,2
+COM,23084,75,23,232,3,FORET DU TEMPLE,Forêt-du-Temple,La Forêt-du-Temple,2304,,2
+COM,23086,75,23,232,0,FRANSECHES,Fransèches,Fransèches,2301,,2
+COM,23087,75,23,232,0,FRESSELINES,Fresselines,Fresselines,2307,,1
+COM,23088,75,23,232,0,GARTEMPE,Gartempe,Gartempe,2314,,3
+COM,23089,75,23,232,0,GENOUILLAC,Genouillac,Genouillac,2304,,3
+COM,23090,75,23,231,0,GENTIOUX PIGEROLLES,Gentioux-Pigerolles,Gentioux-Pigerolles,2309,,1
+COM,23091,75,23,231,0,GIOUX,Gioux,Gioux,2309,,2
+COM,23092,75,23,232,0,GLENIC,Glénic,Glénic,2314,,3
+COM,23093,75,23,231,0,GOUZON,Gouzon,Gouzon,2310,,3
+COM,23095,75,23,232,2,GRAND BOURG,Grand-Bourg,Le Grand-Bourg,2311,,1
+COM,23096,75,23,232,0,GUERET,Guéret,Guéret,2399,,1
+COM,23097,75,23,231,1,ISSOUDUN LETRIEIX,Issoudun-Létrieix,Issoudun-Létrieix,2310,,2
+COM,23098,75,23,232,0,JALESCHES,Jalesches,Jalesches,2306,,1
+COM,23099,75,23,232,0,JANAILLAT,Janaillat,Janaillat,2301,,3
+COM,23100,75,23,231,0,JARNAGES,Jarnages,Jarnages,2310,,1
+COM,23101,75,23,232,0,JOUILLAT,Jouillat,Jouillat,2314,,3
+COM,23102,75,23,231,0,LADAPEYRE,Ladapeyre,Ladapeyre,2310,,3
+COM,23103,75,23,232,0,LAFAT,Lafat,Lafat,2307,,2
+COM,23104,75,23,231,0,LAVAUFRANCHE,Lavaufranche,Lavaufranche,2306,,1
+COM,23105,75,23,231,0,LAVAVEIX LES MINES,Lavaveix-les-Mines,Lavaveix-les-Mines,2310,,1
+COM,23106,75,23,231,0,LEPAUD,Lépaud,Lépaud,2308,,3
+COM,23107,75,23,232,0,LEPINAS,Lépinas,Lépinas,2301,,3
+COM,23108,75,23,231,0,LEYRAT,Leyrat,Leyrat,2306,,2
+COM,23109,75,23,232,0,LINARD MALVAL,Linard-Malval,Linard-Malval,2304,,2
+COM,23110,75,23,231,0,LIOUX LES MONGES,Lioux-les-Monges,Lioux-les-Monges,2303,,2
+COM,23111,75,23,232,0,LIZIERES,Lizières,Lizières,2311,,1
+COM,23112,75,23,232,0,LOURDOUEIX SAINT PIERRE,Lourdoueix-Saint-Pierre,Lourdoueix-Saint-Pierre,2304,,2
+COM,23113,75,23,231,0,LUPERSAT,Lupersat,Lupersat,2302,,3
+COM,23114,75,23,231,0,LUSSAT,Lussat,Lussat,2308,,2
+COM,23115,75,23,231,0,MAGNAT L ETRANGE,Magnat-l'Étrange,Magnat-l'Étrange,2303,,2
+COM,23116,75,23,231,0,MAINSAT,Mainsat,Mainsat,2302,,2
+COM,23117,75,23,232,0,MAISON FEYNE,Maison-Feyne,Maison-Feyne,2307,,1
+COM,23118,75,23,232,0,MAISONNISSES,Maisonnisses,Maisonnisses,2301,,1
+COM,23119,75,23,231,0,MALLERET,Malleret,Malleret,2303,,1
+COM,23120,75,23,231,0,MALLERET BOUSSAC,Malleret-Boussac,Malleret-Boussac,2306,,1
+COM,23122,75,23,232,0,MANSAT LA COURRIERE,Mansat-la-Courrière,Mansat-la-Courrière,2305,,2
+COM,23123,75,23,231,4,MARS,Mars,Les Mars,2303,,1
+COM,23124,75,23,232,0,MARSAC,Marsac,Marsac,2311,,3
+COM,23125,75,23,231,2,MAS D ARTIGE,Mas-d'Artige,Le Mas-d'Artige,2303,,1
+COM,23127,75,23,231,0,MAUTES,Mautes,Mautes,2302,,2
+COM,23128,75,23,232,0,MAZEIRAT,Mazeirat,Mazeirat,2301,,2
+COM,23129,75,23,231,3,MAZIERE AUX BONS HOMMES,Mazière-aux-Bons-Hommes,La Mazière-aux-Bons-Hommes,2303,,3
+COM,23130,75,23,232,0,MEASNES,Méasnes,Méasnes,2304,,3
+COM,23131,75,23,231,0,MERINCHAL,Mérinchal,Mérinchal,2303,,2
+COM,23132,75,23,232,0,MONTAIGUT LE BLANC,Montaigut-le-Blanc,Montaigut-le-Blanc,2313,,3
+COM,23133,75,23,232,0,MONTBOUCHER,Montboucher,Montboucher,2305,,1
+COM,23134,75,23,232,2,MONTEIL AU VICOMTE,Monteil-au-Vicomte,Le Monteil-au-Vicomte,2309,,2
+COM,23136,75,23,232,0,MORTROUX,Mortroux,Mortroux,2304,,3
+COM,23137,75,23,232,0,MOURIOUX VIEILLEVILLE,Mourioux-Vieilleville,Mourioux-Vieilleville,2311,,2
+COM,23138,75,23,232,0,MOUTIER D AHUN,Moutier-d'Ahun,Moutier-d'Ahun,2301,,1
+COM,23139,75,23,232,0,MOUTIER MALCARD,Moutier-Malcard,Moutier-Malcard,2304,,3
+COM,23140,75,23,231,0,MOUTIER ROZEILLE,Moutier-Rozeille,Moutier-Rozeille,2309,,1
+COM,23141,75,23,232,0,NAILLAT,Naillat,Naillat,2307,,2
+COM,23142,75,23,231,0,NEOUX,Néoux,Néoux,2302,,2
+COM,23143,75,23,232,0,NOTH,Noth,Noth,2315,,1
+COM,23144,75,23,231,3,NOUAILLE,Nouaille,La Nouaille,2309,,1
+COM,23145,75,23,231,0,NOUHANT,Nouhant,Nouhant,2308,,3
+COM,23146,75,23,231,0,NOUZERINES,Nouzerines,Nouzerines,2306,,1
+COM,23147,75,23,232,0,NOUZEROLLES,Nouzerolles,Nouzerolles,2307,,2
+COM,23148,75,23,232,0,NOUZIERS,Nouziers,Nouziers,2304,,1
+COM,23149,75,23,231,0,PARSAC RIMONDEIX,Parsac-Rimondeix,Parsac-Rimondeix,2310,,3
+COM,23150,75,23,232,0,PEYRABOUT,Peyrabout,Peyrabout,2301,,2
+COM,23151,75,23,231,0,PEYRAT LA NONIERE,Peyrat-la-Nonière,Peyrat-la-Nonière,2310,,1
+COM,23152,75,23,231,0,PIERREFITTE,Pierrefitte,Pierrefitte,2310,,3
+COM,23154,75,23,231,0,PIONNAT,Pionnat,Pionnat,2310,,2
+COM,23155,75,23,232,0,PONTARION,Pontarion,Pontarion,2301,,3
+COM,23156,75,23,231,0,PONTCHARRAUD,Pontcharraud,Pontcharraud,2303,,3
+COM,23157,75,23,232,3,POUGE,Pouge,La Pouge,2301,,2
+COM,23158,75,23,231,0,POUSSANGES,Poussanges,Poussanges,2309,,1
+COM,23159,75,23,231,0,PUY MALSIGNAT,Puy-Malsignat,Puy-Malsignat,2310,,1
+COM,23160,75,23,231,0,RETERRE,Reterre,Reterre,2308,,2
+COM,23162,75,23,232,0,ROCHES,Roches,Roches,2304,,2
+COM,23164,75,23,231,0,ROUGNAT,Rougnat,Rougnat,2303,,1
+COM,23165,75,23,232,0,ROYERE DE VASSIVIERE,Royère-de-Vassivière,Royère-de-Vassivière,2309,,1
+COM,23166,75,23,232,0,SAGNAT,Sagnat,Sagnat,2307,,1
+COM,23167,75,23,231,0,SANNAT,Sannat,Sannat,2308,,2
+COM,23168,75,23,232,0,SARDENT,Sardent,Sardent,2301,,3
+COM,23169,75,23,232,3,SAUNIERE,Saunière,La Saunière,2312,,1
+COM,23170,75,23,232,0,SAVENNES,Savennes,Savennes,2312,,3
+COM,23171,75,23,231,0,SERMUR,Sermur,Sermur,2303,,2
+COM,23172,75,23,231,3,SERRE BUSSIERE VIEILLE,Serre-Bussière-Vieille,La Serre-Bussière-Vieille,2302,,3
+COM,23173,75,23,232,0,SOUBREBOST,Soubrebost,Soubrebost,2305,,2
+COM,23174,75,23,231,0,SOUMANS,Soumans,Soumans,2306,,2
+COM,23175,75,23,232,0,SOUS PARSAT,Sous-Parsat,Sous-Parsat,2301,,2
+COM,23176,75,23,232,3,SOUTERRAINE,Souterraine,La Souterraine,2315,,2
+COM,23177,75,23,232,0,SAINT AGNANT DE VERSILLAT,Saint-Agnant-de-Versillat,Saint-Agnant-de-Versillat,2315,,3
+COM,23178,75,23,231,0,SAINT AGNANT PRES CROCQ,Saint-Agnant-près-Crocq,Saint-Agnant-près-Crocq,2303,,3
+COM,23179,75,23,231,0,SAINT ALPINIEN,Saint-Alpinien,Saint-Alpinien,2302,,2
+COM,23180,75,23,231,0,SAINT AMAND,Saint-Amand,Saint-Amand,2302,,1
+COM,23181,75,23,232,0,SAINT AMAND JARTOUDEIX,Saint-Amand-Jartoudeix,Saint-Amand-Jartoudeix,2305,,1
+COM,23182,75,23,231,0,SAINT AVIT DE TARDES,Saint-Avit-de-Tardes,Saint-Avit-de-Tardes,2302,,1
+COM,23183,75,23,232,0,SAINT AVIT LE PAUVRE,Saint-Avit-le-Pauvre,Saint-Avit-le-Pauvre,2301,,1
+COM,23184,75,23,231,0,SAINT BARD,Saint-Bard,Saint-Bard,2303,,3
+COM,23185,75,23,231,0,SAINT CHABRAIS,Saint-Chabrais,Saint-Chabrais,2310,,2
+COM,23186,75,23,232,0,SAINT CHRISTOPHE,Saint-Christophe,Saint-Christophe,2313,,1
+COM,23187,75,23,231,0,SAINT DIZIER LA TOUR,Saint-Dizier-la-Tour,Saint-Dizier-la-Tour,2310,,2
+COM,23188,75,23,232,0,SAINT DIZIER LES DOMAINES,Saint-Dizier-les-Domaines,Saint-Dizier-les-Domaines,2304,,1
+COM,23189,75,23,232,0,SAINT DIZIER MASBARAUD,Saint-Dizier-Masbaraud,Saint-Dizier-Masbaraud,2305,,3
+COM,23190,75,23,231,0,SAINT DOMET,Saint-Domet,Saint-Domet,2302,,1
+COM,23191,75,23,232,0,SAINT ELOI,Saint-Éloi,Saint-Éloi,2313,,3
+COM,23192,75,23,232,0,FURSAC,Fursac,Fursac,2311,,1
+COM,23193,75,23,232,0,SAINTE FEYRE,Sainte-Feyre,Sainte-Feyre,2312,,2
+COM,23194,75,23,231,0,SAINTE FEYRE LA MONTAGNE,Sainte-Feyre-la-Montagne,Sainte-Feyre-la-Montagne,2309,,3
+COM,23195,75,23,232,0,SAINT FIEL,Saint-Fiel,Saint-Fiel,2314,,1
+COM,23196,75,23,231,0,SAINT FRION,Saint-Frion,Saint-Frion,2309,,3
+COM,23197,75,23,232,0,SAINT GEORGES LA POUGE,Saint-Georges-la-Pouge,Saint-Georges-la-Pouge,2301,,1
+COM,23198,75,23,231,0,SAINT GEORGES NIGREMONT,Saint-Georges-Nigremont,Saint-Georges-Nigremont,2303,,2
+COM,23199,75,23,232,0,SAINT GERMAIN BEAUPRE,Saint-Germain-Beaupré,Saint-Germain-Beaupré,2307,,1
+COM,23200,75,23,232,0,SAINT GOUSSAUD,Saint-Goussaud,Saint-Goussaud,2311,,3
+COM,23201,75,23,232,0,SAINT HILAIRE LA PLAINE,Saint-Hilaire-la-Plaine,Saint-Hilaire-la-Plaine,2301,,1
+COM,23202,75,23,232,0,SAINT HILAIRE LE CHATEAU,Saint-Hilaire-le-Château,Saint-Hilaire-le-Château,2301,,3
+COM,23203,75,23,231,0,SAINT JULIEN LA GENETE,Saint-Julien-la-Genête,Saint-Julien-la-Genête,2308,,2
+COM,23204,75,23,231,0,SAINT JULIEN LE CHATEL,Saint-Julien-le-Châtel,Saint-Julien-le-Châtel,2310,,1
+COM,23205,75,23,232,0,SAINT JUNIEN LA BREGERE,Saint-Junien-la-Bregère,Saint-Junien-la-Bregère,2305,,3
+COM,23206,75,23,232,0,SAINT LAURENT,Saint-Laurent,Saint-Laurent,2312,,1
+COM,23207,75,23,232,0,SAINT LEGER BRIDEREIX,Saint-Léger-Bridereix,Saint-Léger-Bridereix,2315,,3
+COM,23208,75,23,232,0,SAINT LEGER LE GUERETOIS,Saint-Léger-le-Guérétois,Saint-Léger-le-Guérétois,2314,,1
+COM,23209,75,23,231,0,SAINT LOUP,Saint-Loup,Saint-Loup,2310,,2
+COM,23210,75,23,231,0,SAINT MAIXANT,Saint-Maixant,Saint-Maixant,2302,,3
+COM,23211,75,23,231,0,SAINT MARC A FRONGIER,Saint-Marc-à-Frongier,Saint-Marc-à-Frongier,2302,,2
+COM,23212,75,23,231,0,SAINT MARC A LOUBAUD,Saint-Marc-à-Loubaud,Saint-Marc-à-Loubaud,2309,,3
+COM,23213,75,23,231,0,SAINT MARIEN,Saint-Marien,Saint-Marien,2306,,3
+COM,23214,75,23,232,0,SAINT MARTIAL LE MONT,Saint-Martial-le-Mont,Saint-Martial-le-Mont,2301,,2
+COM,23215,75,23,231,0,SAINT MARTIAL LE VIEUX,Saint-Martial-le-Vieux,Saint-Martial-le-Vieux,2303,,3
+COM,23216,75,23,232,0,SAINT MARTIN CHATEAU,Saint-Martin-Château,Saint-Martin-Château,2309,,3
+COM,23217,75,23,232,0,SAINT MARTIN SAINTE CATHERINE,Saint-Martin-Sainte-Catherine,Saint-Martin-Sainte-Catherine,2305,,1
+COM,23218,75,23,231,0,SAINT MAURICE PRES CROCQ,Saint-Maurice-près-Crocq,Saint-Maurice-près-Crocq,2303,,1
+COM,23219,75,23,232,0,SAINT MAURICE LA SOUTERRAINE,Saint-Maurice-la-Souterraine,Saint-Maurice-la-Souterraine,2315,,1
+COM,23220,75,23,231,0,SAINT MEDARD LA ROCHETTE,Saint-Médard-la-Rochette,Saint-Médard-la-Rochette,2310,,2
+COM,23221,75,23,231,0,SAINT MERD LA BREUILLE,Saint-Merd-la-Breuille,Saint-Merd-la-Breuille,2303,,2
+COM,23222,75,23,232,0,SAINT MICHEL DE VEISSE,Saint-Michel-de-Veisse,Saint-Michel-de-Veisse,2301,,3
+COM,23223,75,23,232,0,SAINT MOREIL,Saint-Moreil,Saint-Moreil,2305,,1
+COM,23224,75,23,231,0,SAINT ORADOUX DE CHIROUZE,Saint-Oradoux-de-Chirouze,Saint-Oradoux-de-Chirouze,2303,,1
+COM,23225,75,23,231,0,SAINT ORADOUX PRES CROCQ,Saint-Oradoux-près-Crocq,Saint-Oradoux-près-Crocq,2303,,2
+COM,23226,75,23,231,0,SAINT PARDOUX D ARNET,Saint-Pardoux-d'Arnet,Saint-Pardoux-d'Arnet,2303,,2
+COM,23227,75,23,232,0,SAINT PARDOUX MORTEROLLES,Saint-Pardoux-Morterolles,Saint-Pardoux-Morterolles,2305,,3
+COM,23228,75,23,231,0,SAINT PARDOUX LE NEUF,Saint-Pardoux-le-Neuf,Saint-Pardoux-le-Neuf,2302,,2
+COM,23229,75,23,231,0,SAINT PARDOUX LES CARDS,Saint-Pardoux-les-Cards,Saint-Pardoux-les-Cards,2310,,1
+COM,23230,75,23,232,0,SAINT PIERRE CHERIGNAT,Saint-Pierre-Chérignat,Saint-Pierre-Chérignat,2305,,2
+COM,23232,75,23,232,0,SAINT PIERRE BELLEVUE,Saint-Pierre-Bellevue,Saint-Pierre-Bellevue,2305,,3
+COM,23233,75,23,231,0,SAINT PIERRE LE BOST,Saint-Pierre-le-Bost,Saint-Pierre-le-Bost,2306,,1
+COM,23234,75,23,231,0,SAINT PRIEST,Saint-Priest,Saint-Priest,2308,,2
+COM,23235,75,23,232,0,SAINT PRIEST LA FEUILLE,Saint-Priest-la-Feuille,Saint-Priest-la-Feuille,2315,,1
+COM,23236,75,23,232,0,SAINT PRIEST LA PLAINE,Saint-Priest-la-Plaine,Saint-Priest-la-Plaine,2311,,3
+COM,23237,75,23,232,0,SAINT PRIEST PALUS,Saint-Priest-Palus,Saint-Priest-Palus,2305,,3
+COM,23238,75,23,231,0,SAINT QUENTIN LA CHABANNE,Saint-Quentin-la-Chabanne,Saint-Quentin-la-Chabanne,2309,,2
+COM,23239,75,23,232,0,SAINT SEBASTIEN,Saint-Sébastien,Saint-Sébastien,2307,,2
+COM,23240,75,23,231,0,SAINT SILVAIN BAS LE ROC,Saint-Silvain-Bas-le-Roc,Saint-Silvain-Bas-le-Roc,2306,,3
+COM,23241,75,23,231,0,SAINT SILVAIN BELLEGARDE,Saint-Silvain-Bellegarde,Saint-Silvain-Bellegarde,2302,,1
+COM,23242,75,23,232,0,SAINT SILVAIN MONTAIGUT,Saint-Silvain-Montaigut,Saint-Silvain-Montaigut,2313,,3
+COM,23243,75,23,231,0,SAINT SILVAIN SOUS TOULX,Saint-Silvain-sous-Toulx,Saint-Silvain-sous-Toulx,2310,,2
+COM,23244,75,23,232,0,SAINT SULPICE LE DUNOIS,Saint-Sulpice-le-Dunois,Saint-Sulpice-le-Dunois,2307,,1
+COM,23245,75,23,232,0,SAINT SULPICE LE GUERETOIS,Saint-Sulpice-le-Guérétois,Saint-Sulpice-le-Guérétois,2314,,3
+COM,23246,75,23,231,0,SAINT SULPICE LES CHAMPS,Saint-Sulpice-les-Champs,Saint-Sulpice-les-Champs,2302,,1
+COM,23247,75,23,232,0,SAINT VAURY,Saint-Vaury,Saint-Vaury,2314,,3
+COM,23248,75,23,232,0,SAINT VICTOR EN MARCHE,Saint-Victor-en-Marche,Saint-Victor-en-Marche,2313,,2
+COM,23249,75,23,231,0,SAINT YRIEIX LA MONTAGNE,Saint-Yrieix-la-Montagne,Saint-Yrieix-la-Montagne,2309,,2
+COM,23250,75,23,232,0,SAINT YRIEIX LES BOIS,Saint-Yrieix-les-Bois,Saint-Yrieix-les-Bois,2301,,2
+COM,23251,75,23,231,0,TARDES,Tardes,Tardes,2308,,2
+COM,23252,75,23,232,0,TERCILLAT,Tercillat,Tercillat,2306,,2
+COM,23253,75,23,232,0,THAURON,Thauron,Thauron,2301,,1
+COM,23254,75,23,231,0,TOULX SAINTE CROIX,Toulx-Sainte-Croix,Toulx-Sainte-Croix,2306,,2
+COM,23255,75,23,231,0,TROIS FONDS,Trois-Fonds,Trois-Fonds,2310,,3
+COM,23257,75,23,231,0,VALLIERE,Vallière,Vallière,2309,,1
+COM,23258,75,23,232,0,VAREILLES,Vareilles,Vareilles,2315,,3
+COM,23259,75,23,231,0,VERNEIGES,Verneiges,Verneiges,2308,,3
+COM,23260,75,23,232,0,VIDAILLAT,Vidaillat,Vidaillat,2301,,1
+COM,23261,75,23,231,0,VIERSAT,Viersat,Viersat,2308,,1
+COM,23262,75,23,231,0,VIGEVILLE,Vigeville,Vigeville,2310,,2
+COM,23263,75,23,232,0,VILLARD,Villard,Villard,2307,,1
+COM,23264,75,23,231,3,VILLEDIEU,Villedieu,La Villedieu,2309,,1
+COM,23265,75,23,231,3,VILLENEUVE,Villeneuve,La Villeneuve,2303,,1
+COM,23266,75,23,231,3,VILLETELLE,Villetelle,La Villetelle,2303,,3
